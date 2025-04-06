@@ -2,6 +2,12 @@
 
 This project implements a **Medicine Reminder and Dispenser System** built with an **ESP32**, **TFT Display**, **Servos**, and the **Blynk App**. It helps users remember to take their medicine at scheduled times by providing visual and auditory alerts. Additionally, it controls servos to dispense the medicine when the reminder is triggered.
 
+![WhatsApp Image 2025-04-06 at 22 15 40](https://github.com/user-attachments/assets/e68a58c8-eda0-4cc4-ab10-7d30f68e8117)
+![WhatsApp Image 2025-04-06 at 22 15 41](https://github.com/user-attachments/assets/3ef80305-dc57-4b19-a867-f4db42b4c7e4)
+![WhatsApp Image 2025-04-06 at 22 15 39](https://github.com/user-attachments/assets/5a07b627-50fc-40d0-9c83-ad7f52c85008)
+
+
+
 ## Features:
 - **Medicine Reminder Notifications**: Reminds users to take their medicine at preset times with a visual notification on the TFT screen and an audible alert via buzzer/LED.
 - **Servo-Controlled Medicine Dispensing**: Dispenses medicine by controlling servos when the reminder is triggered. Users can also manually reset servos using physical switches.
@@ -91,5 +97,5 @@ This project is open source and available under the **MIT License**.
 - **Blynk Not Working**: Verify that the Auth Token is correctly set in the code and that your device is correctly linked in the Blynk app.
 
 ## Teammate:
-- **Sidharth Sajith
+- Sidharth Sajith
 
